@@ -25,3 +25,4 @@ madStory = (
 )
 # Print Story
 print(madStory)
+input()
